@@ -1,0 +1,60 @@
+h1{
+  margin: 0;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.principal{
+  background-image: url("../imgs/TurnT.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 275px;
+  width: auto;
+  padding: 50px;
+  color: #1a2b3c ;
+}
+
+.SpanPrincipal{
+  font-weight: 350;
+}
+
+.principal p {
+  font-size: 19px;
+  font-style: italic;
+  font-weight: 700;
+  color: #1a1a1a;  
+}
+
+.productos {
+  width: 40%;
+  margin: auto;
+}
+
+.productos td{
+  width: 100%;
+  padding: 20px;
+}
+
+.productos img{
+  width: 100%;
+}
+.productos p{
+  font-size: 20px;
+  font-weight: bolder;
+  color: gray;
+}
+
+.footer td{
+  background-color: black;
+}
+
+.footer{
+  background-image: url(../imgs/WP.png);
+  margin: 0;
+  line-height: 25px;
+  text-align: center;
+  color: whitesmoke;
+  font-weight: 700;
+}
